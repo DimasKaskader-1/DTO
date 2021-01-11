@@ -1,0 +1,28 @@
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe.config
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\ExamPractice.pdb
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\EntityFramework.dll
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\EntityFramework.xml
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csprojAssemblyReference.cache
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.CoreCompileInputs.cache
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.CopyComplete
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.exe
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.pdb
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.Migrations.init.resources
+C:\Users\shpar\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.GenerateResource.cache
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\ExamPractice.exe.config
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\ExamPractice.exe
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\ExamPractice.pdb
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\EntityFramework.dll
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\EntityFramework.xml
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.csprojAssemblyReference.cache
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.csproj.CoreCompileInputs.cache
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.csproj.CopyComplete
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.exe
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.pdb
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.Migrations.init.resources
+C:\Users\shpar\OneDrive\Рабочий стол\migrations\dto\ExamPractice\obj\Debug\ExamPractice.csproj.GenerateResource.cache
